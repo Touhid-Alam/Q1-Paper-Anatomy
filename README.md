@@ -47,7 +47,7 @@ To get the most out of this repository, read the papers in the order below—pro
 ---
 
 ### Level 2: Data-Centric Multi-Stage Pipelines & Quantitative XAI Validation
-📄 **File:** [`4_GANA-SkinAI_TEACHING_EDITION.pdf`](./4_GANA-SkinAI_TEACHING_EDITION.pdf) *(or `5_GANA-SkinAI_TEACHING_EDITION.pdf`)*  
+📄 **File:** [`4_GANA-SkinAI_TEACHING_EDITION.pdf`](./5_GANA-SkinAI_TEACHING_EDITION.pdf)  
 * **Paper:** *GANA-SkinAI: A Multi-Stage Generative Framework for Explainable and Interpretable Skin Cancer Classification* (*Elsevier Preprint*)
 * **Total Annotations:** 133 marks
 * **What You Will Learn:**
